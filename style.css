@@ -228,3 +228,13 @@ footer h4 {
     font-size: 1.3rem;
     color: gray;
 }
+
+footer p {
+    padding-top: 1rem;
+    color: gray;
+}
+
+footer a {
+    text-decoration: none;
+    color: gray;
+}
